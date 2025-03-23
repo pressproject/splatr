@@ -1,4 +1,4 @@
-[!Splatr Logo](./assets/splatr_full.svg)
+![Splatr Logo](./assets/splatr_full.svg)
 
 # Splatr
 
